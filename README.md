@@ -1,7 +1,7 @@
 # UTM
 My UTM virtual machines.
 
-See packages for released VMs. Each release is a new VM (so no concept of latest/earliest, I will edit a release if it needs changes). They are zipped with 7z by Keka (it's a great app!).
+See releases for released VMs. Each release is a new VM (so no concept of latest/earliest, I will edit a release if it needs changes). They are zipped with 7z by Keka (it's a great app!).
 
 Notes on each machine:
 
