@@ -5,7 +5,7 @@ See releases for released VMs. Each release is a new VM (so no concept of latest
 
 Notes on each machine:
 
- - Ubuntu 4.10: Internet, sound, mouse, keyboard, clock, and GUI work. The VM does not have seamless transition for mouse. Resolution: 1024 x 768, colored
+ - Ubuntu 4.10: **CURRENTLY BROKEN** Internet, sound, mouse, keyboard, clock, and GUI work. The VM does not have seamless transition for mouse. Resolution: 1024 x 768, colored
  - Windows 95: Internet, sound, mouse, keyboard, clock, and GUI work. The VM does not have seamless transition for mouse. Resolution: 1024 x 768, colored
  - Windows 98 SE: Internet, sound, mouse, keyboard, clock, and GUI work. The VM does have seamless transition for mouse. Resolution: 1024 x 768, colored
 
