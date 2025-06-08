@@ -1,4 +1,7 @@
 # UTM
+
+**Note:** I am moving to the Internet Archive! I'll still post documentation here, but VMs that dont fit as a release will instead be linked to the Internet Archive.
+
 My UTM virtual machines (that are not found in the gallery).
 
 See releases for released VMs. Each release is a new VM (so no concept of latest/earliest, I will edit a release if it needs changes). They are zipped by Keka (it's a great app!).
